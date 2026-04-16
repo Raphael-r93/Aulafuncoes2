@@ -1,0 +1,15 @@
+
+git init
+git status
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Raphael-r93/Aulafuncoes2.git
+git push -u origin main
+
+
+
+
+repositorio local = é sua maquina
+repositorio remoto = é na nuvem (GitHub)
+
