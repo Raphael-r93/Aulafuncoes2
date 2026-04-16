@@ -1,0 +1,24 @@
+{
+  "name": "prof-marcos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercicio01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raphael-r93/Aulafuncoes2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Raphael-r93/Aulafuncoes2/issues"
+  },
+  "homepage": "https://github.com/Raphael-r93/Aulafuncoes2#readme"
+}

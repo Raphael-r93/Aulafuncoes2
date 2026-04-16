@@ -13,3 +13,7 @@ git push -u origin main
 repositorio local = é sua maquina
 repositorio remoto = é na nuvem (GitHub)
 
+todo final da ala fazer o seguinte:
+git add .
+git commit -m "final da aula"
+git push
